@@ -1,8 +1,0 @@
-02:07:20 - Starting Test Sequence...
-02:07:20 - [PowerSupply] Voltage set to 3.3V
-02:07:20 - [PowerSupply] Current measured: 0.0201A
-02:07:20 - Voltage Stability Test: PASS - Current=0.0201A
-02:07:20 - [SPI] Wrote value 0xAB to address 0x10
-02:07:20 - [SPI] Read value 0xAB from address 0x10
-02:07:20 - Register Read/Write Test: PASS - Expected 0xAB, Got 0xAB
-02:07:20 - Test Sequence Completed.
