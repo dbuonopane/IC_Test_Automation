@@ -1,0 +1,70 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Tt]est[Rr]esult*/
+*.obj
+*.exe
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio folders
+.vs/
+.vscode/
+.idea/
+
+# Test results
+TestResults/
+*.VisualState.xml
+*.coverage
+*.coveragexml
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of the restore feature
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+# except build/, which is used as an MSBuild target.
+
+# Azure, publish, and deploy
+PublishProfiles/
+*.Publish.xml
+*.pubxml
+*.publishproj
+*.PublishSettings
+
+# Backup & generated files
+*_i.c
+*_p.c
+*_h.h
+*.dbmdl
+*.bak
+*.Backup
+*.tmp
+*.swp
+*.DS_Store
+
+# Reports
+Reports/
+*.csv
+*.txt
+!Results.txt   # Keep your test results file if you want it in repo
+
+# Rider / Resharper / JetBrains
+.idea/
+*.DotSettings.user
+
+# Others
+Thumbs.db
+desktop.ini
+
